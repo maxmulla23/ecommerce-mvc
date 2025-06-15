@@ -1,0 +1,30 @@
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/bin/Debug/net8.0/appsettings.Development.json
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/bin/Debug/net8.0/appsettings.json
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/bin/Debug/net8.0/ecommerce mvc.staticwebassets.runtime.json
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/bin/Debug/net8.0/ecommerce mvc
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/bin/Debug/net8.0/ecommerce mvc.deps.json
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/bin/Debug/net8.0/ecommerce mvc.runtimeconfig.json
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/bin/Debug/net8.0/ecommerce mvc.dll
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/bin/Debug/net8.0/ecommerce mvc.pdb
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.AssemblyInfoInputs.cache
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.AssemblyInfo.cs
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.csproj.CoreCompileInputs.cache
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.RazorAssemblyInfo.cache
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.RazorAssemblyInfo.cs
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/staticwebassets.build.json
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/staticwebassets.development.json
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/staticwebassets/msbuild.ecommerce mvc.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/staticwebassets/msbuild.build.ecommerce mvc.props
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ecommerce mvc.props
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ecommerce mvc.props
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/scopedcss/bundle/ecommerce mvc.styles.css
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/scopedcss/projectbundle/ecommerce mvc.bundle.scp.css
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.dll
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/refint/ecommerce mvc.dll
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.pdb
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.genruntimeconfig.cache
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ref/ecommerce mvc.dll

@@ -15,6 +15,6 @@ namespace ecommerce_mvc.Models
         public int StockQuantity { get; set; }
 
         public int CategoryId { get; set; }
-        public Category Category { get; set; }
+        public required Category Category { get; set; }
     }
 }

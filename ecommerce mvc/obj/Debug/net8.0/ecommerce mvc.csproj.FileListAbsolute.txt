@@ -28,3 +28,4 @@
 /Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.pdb
 /Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.genruntimeconfig.cache
 /Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ref/ecommerce mvc.dll
+/Users/maxmulla/Desktop/projects/ecommerce/ecommerce mvc/obj/Debug/net8.0/ecommerce mvc.sourcelink.json
